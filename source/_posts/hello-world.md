@@ -36,3 +36,5 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+注意：关于图片引用的问题，统一放在`Blog\public\img\res` 里直接上传到github远程仓库里去

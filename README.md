@@ -35,3 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Hola，mi amigo ~
+## Welcome to my personal blog
+## All things are published at https://chensimin0103.github.io/ChenSimin.github.io/
+## thumb up and have a nice day!
+## ღ( ´･ᴗ･` )

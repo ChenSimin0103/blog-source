@@ -3,18 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
+title: 点赞狂魔的博客
+subtitle: share my world ღ( ´･ᴗ･` )
+description: 前端码农，现已基本养成万事靠百度的生活态度和面向google编程的工作方法
+keywords: "前端,js,javascript,html5,开发者,程序猿,程序媛,极客,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,html,css,css3,用户体验"
+author: 点赞狂魔
+email: 375021462@qq.com
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://chensimin0103.github.io/ChenSimin.github.io
+root: /ChenSimin.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -35,7 +36,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -79,5 +80,34 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: git@github.com:ChenSimin0103/Blog.github.io.git
+  repo: git@github.com:ChenSimin0103/ChenSimin.github.io.git
   branch: master
+
+sitemap:
+    path: sitemap.xml
+baidusitemap:
+    path: baidusitemap.xm
+
+feed:
+    type: atom
+    path: atom.xml
+    limit: 100
+
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: false
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true 
